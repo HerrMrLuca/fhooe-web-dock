@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b107dd6-c414-4b09-9db7-1d5d3f5203e9" name="Changes" comment="" />
+    <list default="true" id="1b107dd6-c414-4b09-9db7-1d5d3f5203e9" name="Changes" comment="Add everything">
+      <change beforePath="$PROJECT_DIR$/webapp/hyp2ue_oo" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/hyp2ue_oo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/webshop" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/webshop" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +76,7 @@
       <workItem from="1648883660250" duration="22000" />
       <workItem from="1649147398071" duration="4298000" />
       <workItem from="1649172291311" duration="1083000" />
-      <workItem from="1649263980726" duration="1404000" />
+      <workItem from="1649263980726" duration="1729000" />
     </task>
     <task id="LOCAL-00001" summary="Finished without css">
       <created>1647005560268</created>
@@ -82,7 +85,28 @@
       <option name="project" value="LOCAL" />
       <updated>1647005560268</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add everything">
+      <created>1649265594371</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649265594371</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add everything">
+      <created>1649265632982</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649265632982</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add everything">
+      <created>1649265678838</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649265678838</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +128,7 @@
       <path value="$PROJECT_DIR$/webapp/Regex" />
     </ignored-roots>
     <MESSAGE value="Finished without css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished without css" />
+    <MESSAGE value="Add everything" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add everything" />
   </component>
 </project>
